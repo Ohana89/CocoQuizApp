@@ -1,0 +1,93 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Coco Quiz</string>
+
+    <!-- activity_main -->
+    <string name="start">Start</string>
+
+    <!-- activity_main2 -->
+    <string name="name">Name</string>
+
+    <!-- Question 1 TextView name -->
+    <string name="question1">1. What is the name of Miguel\'s paternal great-grandmother?</string>
+
+    <!-- Question 1 RadioButton name -->
+    <string name="q1r1x">Coco</string>
+    <string name="q1r2">Abuelita</string>
+    <string name="q1r3">Gloria</string>
+
+    <!-- Question 2 TextView name -->
+    <string name="question2">2. What song does Muguel play during the music contest in Plaza de la Cruz? </string>
+
+    <!-- Question 2 RadioButton name -->
+    <string name="q2r1">Proud corazon</string>
+    <string name="q2r2">The world es mi familia</string>
+    <string name="q2r3x">Un poco loco</string>
+
+    <!-- Question 3 TextView name -->
+    <string name="question3">3. What is the name of the famous singer and musician? </string>
+
+    <!-- Question 3 RadioButton name -->
+    <string name="q3r1x">Ernesto de la Cruz</string>
+    <string name="q3r2">Abel de la Cruz</string>
+    <string name="q3r3">Felipe de la Cruz</string>
+
+    <!-- Question 4 TextView name -->
+    <string name="question4">4. What does Miguel want to be?</string>
+
+    <!-- Question 4 RadioButton name -->
+    <string name="q4r1">Fireman</string>
+    <string name="q4r2">Carpenter</string>
+    <string name="q4r3x">Musician</string>
+
+    <!-- Question 5 TextView name -->
+    <string name="question5">5. Who is Coco\'s father? </string>
+
+    <!-- Question 5 RadioButton name -->
+    <string name="q5r1">Ernesto</string>
+    <string name="q5r2x">Hector</string>
+    <string name="q5r3">Julio</string>
+
+    <!-- Question 6 TextView name -->
+    <string name="question6">6. How old is Miguel? </string>
+
+    <!-- Question 6 RadioButton name -->
+    <string name="q6r1">11</string>
+    <string name="q6r2x">12</string>
+    <string name="q6r3">13</string>
+
+    <!-- Question 7 TextView name -->
+    <string name="question7">7. What song Hector sang to Coco? </string>
+
+    <!-- Question 7 RadioButton name -->
+    <string name="q7r1">La llorona</string>
+    <string name="q7r2">Everyone knows Juanita</string>
+    <string name="q7r3x">Remember me</string>
+
+    <!-- Question 8 TextView name -->
+    <string name="question8">8. What is Miguel surname? </string>
+
+    <!-- Question 8 RadioButton name -->
+    <string name="q8r1">Carera</string>
+    <string name="q8r2x">Rivera</string>
+    <string name="q8r3">Divera</string>
+
+    <!-- Question 9 TextView name -->
+    <string name="question9">9. Hector first appears trying to cross over to the Land of the Living disguised as </string>
+
+    <!-- Question 9 RadioButton name -->
+    <string name="q9r1x">Frida Kahlo</string>
+    <string name="q9r2">Batman</string>
+    <string name="q9r3">Superman</string>
+
+    <!-- Question 10 TextView name -->
+    <string name="question10">10. What is the name of Miguel\'s dog? </string>
+
+    <!-- Question 10 RadioButton name -->
+    <string name="q10r1">Romeo</string>
+    <string name="q10r2x">Dante</string>
+    <string name="q10r3">Jacky</string>
+
+    <!-- Submit Answers -->
+    <string name="submit">Submit</string>
+
+</resources>
